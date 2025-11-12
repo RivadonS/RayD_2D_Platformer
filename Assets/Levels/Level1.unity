@@ -14665,6 +14665,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fireball
       objectReference: {fileID: 0}
+    - target: {fileID: 6657352043322434298, guid: f78dc022c10e24f4b978c4cf34ec8819, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657352043322434298, guid: f78dc022c10e24f4b978c4cf34ec8819, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -174507269
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
